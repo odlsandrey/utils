@@ -12,14 +12,10 @@ Example dataset (file xaa):
 20201222 080000 0680000;3673.5;3673.5;3673.75;6
 """
 
-
-
-
 import time
 from prettytable import PrettyTable
 
 x = PrettyTable()
-
 # dataset
 fn = 'xaa'
 
