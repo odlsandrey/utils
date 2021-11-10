@@ -1,6 +1,10 @@
 #!/usr/bin/env python3.8
 # -*- coding: utf-8 -*-
 """
+pip install prettytable
+"""
+
+"""
 Test python 3.8
 Example dataset (file xaa):
 20201222 080000 0640000;3673.5;3673.5;3673.75;1
